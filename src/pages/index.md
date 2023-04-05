@@ -1,20 +1,20 @@
 ---
 title: Getting started
-pageTitle: CacheAdvance - Never miss the cache again.
-description: Cache every single thing your app could ever do ahead of time, so your code never even has to run at all.
+pageTitle: Buck.ai Documentation - Optimize Your Dispatch Ops, Call Center and Business Analytics.
+description: Buck.ai is an smart automation platform for the home services industry, enabling you increase revenue, cut costs and become more profitable.
 ---
 
 Learn how to get CacheAdvance set up in your project in under thirty minutes or it's free. {% .lead %}
 
 {% quick-links %}
 
-{% quick-link title="Installation" icon="installation" href="/" description="Step-by-step guides to setting up your system and installing the library." /%}
+{% quick-link title="Onboarding" icon="installation" href="/" description="Step-by-step guides to setting up your system and installing the library." /%}
 
-{% quick-link title="Architecture guide" icon="presets" href="/" description="Learn how the internals work and contribute." /%}
+{% quick-link title="Integrations" icon="presets" href="/" description="Learn how the internals work and contribute." /%}
 
-{% quick-link title="Plugins" icon="plugins" href="/" description="Extend the library with third-party plugins or write your own." /%}
+{% quick-link title="Scenarios" icon="plugins" href="/" description="Extend the library with third-party plugins or write your own." /%}
 
-{% quick-link title="API reference" icon="theming" href="/" description="Learn to easily customize and modify your app's visual design to fit your brand." /%}
+{% quick-link title="Job Types" icon="theming" href="/" description="Learn to easily customize and modify your app's visual design to fit your brand." /%}
 
 {% /quick-links %}
 
