@@ -1,5 +1,5 @@
 ---
-title: Installation
+title: Onboarding to Buck.ai
 description: Quidem magni aut exercitationem maxime rerum eos.
 ---
 
