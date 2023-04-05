@@ -1,5 +1,5 @@
 ---
-title: How to contribute
+title: Setting Up Your Channels
 description: Quidem magni aut exercitationem maxime rerum eos.
 ---
 

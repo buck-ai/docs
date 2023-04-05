@@ -25,7 +25,7 @@ const navigation = [
       { title: 'Users', href: '/docs/account/users' },
       {
         title: 'Integrations',
-        href: '/docs/integrations',
+        href: '/docs/account/integrations',
       },
       { title: 'Billing', href: '/docs/account/billing' },
       {
@@ -51,7 +51,7 @@ const navigation = [
     ],
   },
   {
-    title: 'Optimizing Dispatch Ops',
+    title: 'Managing Your Dispatch',
     links: [
       { title: 'Dashboard', href: '/docs/dispatch/dashboard' },
       { title: 'Board Optimization', href: '/docs/dispatch/using_boards' },
@@ -62,16 +62,16 @@ const navigation = [
       { title: 'Using Scenarios', href: '/docs/dispatch/using_scenarios' },
       {
         title: 'Using Rules',
-        href: '/docs/dispatch/fine_tune_with_rules',
+        href: '/docs/dispatch/using_rules',
       },
       {
-        title: 'Best Practices',
-        href: '/docs/dispatch/best_practices',
+        title: 'Using Zones',
+        href: '/docs/dispatch/using_zones',
       },
     ],
   },
   {
-    title: 'Optimizing Call Center Ops',
+    title: 'Managing Customer Conversations',
     links: [
       { title: 'Channel Setup', href: '/docs/omnichannel/setup' },
       { title: 'Managing Voice Calls', href: '/docs/omnichannel/voice' },
@@ -84,7 +84,7 @@ const navigation = [
     ],
   },
   {
-    title: 'Strategies for Optimization',
+    title: 'Strategies for Best Performance',
     links: [
       { title: 'Calibrating for Revenue', href: '/docs/strategies/revenue' },
       { title: 'Calibrating for Mileage', href: '/docs/strategies/mileage' },

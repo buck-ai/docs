@@ -1,5 +1,5 @@
 ---
-title: Neuralink integration
+title: Your Dispatch Dashboard
 description: Quidem magni aut exercitationem maxime rerum eos.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Writing plugins
+title: Account Settings
 description: Quidem magni aut exercitationem maxime rerum eos.
 ---
 

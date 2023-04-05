@@ -1,5 +1,5 @@
 ---
-title: CacheAdvance.predict()
+title: Setting Up Your Channels
 description: Quidem magni aut exercitationem maxime rerum eos.
 ---
 

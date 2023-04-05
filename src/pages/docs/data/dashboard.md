@@ -1,5 +1,5 @@
 ---
-title: CacheAdvance.flush()
+title: Your Data Dashboard
 description: Quidem magni aut exercitationem maxime rerum eos.
 ---
 

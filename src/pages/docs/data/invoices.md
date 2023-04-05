@@ -1,5 +1,5 @@
 ---
-title: Design principles
+title: Invoices
 description: Quidem magni aut exercitationem maxime rerum eos.
 ---
 

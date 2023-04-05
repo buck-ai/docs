@@ -1,5 +1,5 @@
 ---
-title: Architecture guide
+title: Managing Your Job Types
 description: Quidem magni aut exercitationem maxime rerum eos.
 ---
 

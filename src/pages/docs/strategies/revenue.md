@@ -1,5 +1,5 @@
 ---
-title: Predictive data generation
+title: Setting Up Your Channels
 description: Quidem magni aut exercitationem maxime rerum eos.
 ---
 

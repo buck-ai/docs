@@ -1,5 +1,5 @@
 ---
-title: Temporal paradoxes
+title: Jobs
 description: Quidem magni aut exercitationem maxime rerum eos.
 ---
 
