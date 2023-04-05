@@ -48,7 +48,7 @@ export function Hero() {
               priority
             />
             <div className="relative">
-              <p className="inline bg-gradient-to-r from-indigo-200 via-sky-400 to-indigo-200 bg-clip-text font-display text-5xl tracking-tight text-transparent">
+              <p className="inline bg-gradient-to-r from-indigo-200 via-cyan-600 to-indigo-200 bg-clip-text font-display text-5xl tracking-tight text-transparent">
                 Never miss the cache again.
               </p>
               <p className="mt-3 text-2xl tracking-tight text-slate-400">
@@ -100,7 +100,7 @@ export function Hero() {
                         className={clsx(
                           'flex h-6 rounded-full',
                           tab.isActive
-                            ? 'bg-gradient-to-r from-sky-400/30 via-sky-400 to-sky-400/30 p-px font-medium text-sky-300'
+                            ? 'bg-gradient-to-r from-cyan-600/30 via-cyan-600 to-cyan-600/30 p-px font-medium text-sky-300'
                             : 'text-slate-500'
                         )}
                       >
