@@ -16,54 +16,79 @@ const navigation = [
     title: 'Introduction',
     links: [
       { title: 'Getting started', href: '/' },
-      { title: 'Installation', href: '/docs/installation' },
+      { title: 'Onboarding', href: '/docs/onboarding' },
     ],
   },
   {
-    title: 'Core concepts',
+    title: 'Managing Your Account',
     links: [
-      { title: 'Understanding caching', href: '/docs/understanding-caching' },
+      { title: 'Users', href: '/docs/account/users' },
       {
-        title: 'Predicting user behavior',
-        href: '/docs/predicting-user-behavior',
+        title: 'Integrations',
+        href: '/docs/integrations',
       },
-      { title: 'Basics of time-travel', href: '/docs/basics-of-time-travel' },
+      { title: 'Billing', href: '/docs/account/billing' },
       {
-        title: 'Introduction to string theory',
-        href: '/docs/introduction-to-string-theory',
-      },
-      { title: 'The butterfly effect', href: '/docs/the-butterfly-effect' },
-    ],
-  },
-  {
-    title: 'Advanced guides',
-    links: [
-      { title: 'Writing plugins', href: '/docs/writing-plugins' },
-      { title: 'Neuralink integration', href: '/docs/neuralink-integration' },
-      { title: 'Temporal paradoxes', href: '/docs/temporal-paradoxes' },
-      { title: 'Testing', href: '/docs/testing' },
-      { title: 'Compile-time caching', href: '/docs/compile-time-caching' },
-      {
-        title: 'Predictive data generation',
-        href: '/docs/predictive-data-generation',
+        title: 'Account Settings',
+        href: '/docs/account/settings',
       },
     ],
   },
   {
-    title: 'API reference',
+    title: 'Managing Your Data',
     links: [
-      { title: 'CacheAdvance.predict()', href: '/docs/cacheadvance-predict' },
-      { title: 'CacheAdvance.flush()', href: '/docs/cacheadvance-flush' },
-      { title: 'CacheAdvance.revert()', href: '/docs/cacheadvance-revert' },
-      { title: 'CacheAdvance.regret()', href: '/docs/cacheadvance-regret' },
+      { title: 'Your Data Dashboard', href: '/docs/data/dashboard' },
+      { title: 'Technicians', href: '/docs/data/technicians' },
+      { title: 'Business Units', href: '/docs/data/business_units' },
+      { title: 'Job Types', href: '/docs/data/job_types' },
+      { title: 'Jobs', href: '/docs/data/jobs' },
+      { title: 'Customers', href: '/docs/data/customers' },
+      { title: 'Invoices', href: '/docs/data/invoices' },
+      {
+        title: 'Syncing with Your Legacy Systems',
+        href: '/docs/data/settings',
+      },
     ],
   },
   {
-    title: 'Contributing',
+    title: 'Optimizing Dispatch Ops',
     links: [
-      { title: 'How to contribute', href: '/docs/how-to-contribute' },
-      { title: 'Architecture guide', href: '/docs/architecture-guide' },
-      { title: 'Design principles', href: '/docs/design-principles' },
+      { title: 'Dashboard', href: '/docs/dispatch/dashboard' },
+      { title: 'Board Optimization', href: '/docs/dispatch/using_boards' },
+      {
+        title: 'Real Time Dispatch',
+        href: '/docs/dispatch/real_time_dispatch_board',
+      },
+      { title: 'Using Scenarios', href: '/docs/dispatch/using_scenarios' },
+      {
+        title: 'Using Rules',
+        href: '/docs/dispatch/fine_tune_with_rules',
+      },
+      {
+        title: 'Best Practices',
+        href: '/docs/dispatch/best_practices',
+      },
+    ],
+  },
+  {
+    title: 'Optimizing Call Center Ops',
+    links: [
+      { title: 'Channel Setup', href: '/docs/omnichannel/setup' },
+      { title: 'Managing Voice Calls', href: '/docs/omnichannel/voice' },
+      { title: 'Managing Text Conversations', href: '/docs/omnichannel/text' },
+      {
+        title: 'Technician Communications',
+        href: '/docs/omnichannel/technicians',
+      },
+      { title: 'Using AI in Call Center', href: '/docs/omnichannel/using_ai' },
+    ],
+  },
+  {
+    title: 'Strategies for Optimization',
+    links: [
+      { title: 'Calibrating for Revenue', href: '/docs/strategies/revenue' },
+      { title: 'Calibrating for Mileage', href: '/docs/strategies/mileage' },
+      { title: 'Calibrating for Capacity', href: '/docs/strategies/mileage' },
     ],
   },
 ]
