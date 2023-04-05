@@ -4,29 +4,29 @@ pageTitle: Buck.ai Documentation - Optimize Your Dispatch Ops, Call Center and B
 description: Buck.ai is an smart automation platform for the home services industry, enabling you increase revenue, cut costs and become more profitable.
 ---
 
-Learn how to get CacheAdvance set up in your project in under thirty minutes or it's free. {% .lead %}
+Learn how to get Buck.ai up and running for your service business. {% .lead %}
 
 {% quick-links %}
 
-{% quick-link title="Onboarding" icon="installation" href="/" description="Step-by-step guides to setting up your system and installing the library." /%}
+{% quick-link title="Onboarding" icon="installation" href="/docs/onboarding" description="How to onboard to Buck.ai?" /%}
 
-{% quick-link title="Integrations" icon="presets" href="/" description="Learn how the internals work and contribute." /%}
+{% quick-link title="Integrations" icon="presets" href="/docs/account/integrations" description="Setting up your integrations." /%}
 
-{% quick-link title="Scenarios" icon="plugins" href="/" description="Extend the library with third-party plugins or write your own." /%}
+{% quick-link title="Scenarios" icon="plugins" href="/docs/dispatch/using_scenarios" description="Using scenarios to fine-tune your dispatch ops." /%}
 
-{% quick-link title="Job Types" icon="theming" href="/" description="Learn to easily customize and modify your app's visual design to fit your brand." /%}
+{% quick-link title="Job Types" icon="theming" href="/docs/data/job_types" description="Modify your job types to generate the optimum outcome for dispatch." /%}
 
 {% /quick-links %}
 
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste.
+Buck.ai is a state-of-the-art automation platform crafted for the home service industry. You can use Buck to maximize your revenues, minimizing your mileage, and increase your overall profits.
 
 ---
 
-## Quick start
+## Getting Started
 
 Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
 
-### Installing dependencies
+### Integrating Your Legacy Systems
 
 Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
 
@@ -40,7 +40,7 @@ Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit per
 This is what a disclaimer message looks like. You might want to include inline `code` in it. Or maybe you’ll want to include a [link](/) in it. I don’t think we should get too carried away with other scenarios like lists or tables — that would be silly.
 {% /callout %}
 
-### Configuring the library
+### Optimizing Results
 
 Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
 
@@ -67,7 +67,7 @@ This is what a disclaimer message looks like. You might want to include inline `
 
 Praesentium laudantium magni. Consequatur reiciendis aliquid nihil iusto ut in et. Quisquam ut et aliquid occaecati. Culpa veniam aut et voluptates amet perspiciatis. Qui exercitationem in qui. Vel qui dignissimos sit quae distinctio.
 
-### Your first cache
+### First Optimized Dispatch Board
 
 Minima vel non iste debitis. Consequatur repudiandae et quod accusamus sit molestias consequatur aperiam. Et sequi ipsa eum voluptatibus ipsam. Et quisquam ut.
 
@@ -75,7 +75,7 @@ Qui quae esse aspernatur fugit possimus. Quam sed molestiae temporibus. Eum perf
 
 Atque eos laudantium. Optio odit aspernatur consequuntur corporis soluta quidem sunt aut doloribus. Laudantium assumenda commodi.
 
-### Clearing the cache
+### First Dispatch-Optimized Call
 
 Vel aut velit sit dolor aut suscipit at veritatis voluptas. Laudantium tempore praesentium. Qui ut voluptatem.
 
@@ -83,7 +83,7 @@ Ea est autem fugiat velit esse a alias earum. Dolore non amet soluta eos libero 
 
 Ut dolore qui aut nam. Natus temporibus nisi voluptatum labore est ex error vel officia. Vero repellendus ut. Suscipit voluptate et placeat. Eius quo corporis ab et consequatur quisquam. Nihil officia facere dolorem occaecati alias deleniti deleniti in.
 
-### Adding middleware
+### How does our proprietary AI work?
 
 Officia nobis tempora maiores id iusto magni reprehenderit velit. Quae dolores inventore molestiae perspiciatis aut. Quis sequi officia quasi rem officiis officiis. Nesciunt ut cupiditate. Sunt aliquid explicabo enim ipsa eum recusandae. Vitae sunt eligendi et non beatae minima aut.
 
@@ -104,11 +104,3 @@ Inventore et aut minus ut voluptatem nihil commodi doloribus consequatur. Facili
 Facere aliquam qui. Dolorem officia ipsam adipisci qui molestiae. Error voluptatem reprehenderit ex.
 
 Consequatur enim quia maiores aperiam et ipsum dicta. Quam ut sit facere sit quae. Eligendi veritatis aut ut veritatis iste ut adipisci illo.
-
-### Join the community
-
-Praesentium facilis iste aliquid quo quia a excepturi. Fuga reprehenderit illo sequi voluptatem voluptatem omnis. Id quia consequatur rerum consectetur eligendi et omnis. Voluptates iusto labore possimus provident praesentium id vel harum quisquam. Voluptatem provident corrupti.
-
-Eum et ut. Qui facilis est ipsa. Non facere quia sequi commodi autem. Dicta autem sit sequi omnis impedit. Eligendi amet dolorum magnam repudiandae in a.
-
-Molestiae iusto ut exercitationem dolorem unde iusto tempora atque nihil. Voluptatem velit facere laboriosam nobis ea. Consequatur rerum velit ipsum ipsam. Et qui saepe consequatur minima laborum tempore voluptatum et. Quia eveniet eaque sequi consequatur nihil eos.
