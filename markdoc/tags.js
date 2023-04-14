@@ -1,4 +1,5 @@
 import { Callout } from '@/components/Callout'
+import { LoomVideo } from '@/components/LoomVideo'
 import { QuickLink, QuickLinks } from '@/components/QuickLinks'
 
 const tags = {
@@ -42,6 +43,13 @@ const tags = {
       href: { type: String },
     },
   },
+  'loom-video': {
+    selfClosing: true,
+    render: LoomVideo,
+    attributes: {
+      source: { type: String }
+    }
+  }
 }
 
 export default tags
