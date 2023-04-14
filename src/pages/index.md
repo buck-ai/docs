@@ -24,11 +24,11 @@ Buck.ai is a state-of-the-art automation platform crafted for the home service i
 
 ## Getting Started
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
+To get started, please email [support@buck.ai](support@buck.ai) so we can provision your account.
 
 ### Integrating Your Legacy Systems
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+Buck.ai integrates with systems like ServiceTitan. To get started, please check [integrations](/docs/account/integrations).
 
 ```shell
 npm install @tailwindlabs/cache-advance
