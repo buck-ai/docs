@@ -56,6 +56,8 @@ From your app selector, select **Dispatch > Boards > + New Board**. Pick the dat
 
 You may want to pick the jobs that will be included in the board, although it's not mandatory. Click **Create Board** and you're done.
 
+{%loom-video source="https://www.loom.com/embed/516b047860614587983159b5dce4c6a3" /%}
+
 ### First Dispatch-Optimized Call
 
 In the same manner, you can dispatch a customer conversation to the best -and mileage optimized- technician within seconds using Buck.
@@ -67,6 +69,8 @@ In _Step 1_, Fill in _Customer_ name, existing options will appear in the dropdo
 In _Step 2_, fill in _Business Unit_, _Job Type_ and _Campaign_. Pick an _Availability Search_, and click **Find Appointment**.
 
 In _Step 3_, Buck.ai brings the most optimal alternatives either for assigning to an actual technician, or assigning to an arrival window depending on the _Availability Search_ you picked in Step 2. Click **Select** next to the option you want to create the job. Alternatively, you can use the **Force Assign** button to create a job manually.
+
+{% loom-video source="https://www.loom.com/embed/074529aa99f445d78a7f06c8afcca0f0" /%}
 
 ---
 
