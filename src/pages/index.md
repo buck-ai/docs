@@ -24,85 +24,52 @@ Buck.ai is a state-of-the-art automation platform crafted for the home service i
 
 ## Getting Started
 
-To get started, please email [support@buck.ai](support@buck.ai) so we can provision your account.
+Buck.ai is built for Home Services Companies, a.k.a. The Trades. You need to use a Field Service Management software such as [ServiceTitan](https://servicetitan.com), [ServiceFusion](https://servicefusion.com), [FieldEdge](https://fieldedge.com), etc. to be able to use Buck Platform.
+
+To get started, please email [support@buck.ai](support@buck.ai) so we can provision your account. To schedule a demo, please visit [https://buck.ai/demo](https://buck.ai/demo)
 
 ### Integrating Your Legacy Systems
 
-Buck.ai integrates with systems like ServiceTitan. To get started, please check [integrations](/docs/account/integrations).
+Buck.ai integrates with systems like ServiceTitan. To get started, please check [integrations](/docs/account/integrations). Buck.ai typically needs 24 hours after the first integration to import the data and train relevant models. After that point forward, your data is refreshed in intervals between 4 hours to 24 hours depending on the data type.
 
-```shell
-npm install @tailwindlabs/cache-advance
-```
-
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
-
-{% callout type="warning" title="Oh no! Something bad happened!" %}
-This is what a disclaimer message looks like. You might want to include inline `code` in it. Or maybe you’ll want to include a [link](/) in it. I don’t think we should get too carried away with other scenarios like lists or tables — that would be silly.
+{% callout type="note" title="What if I'm running on Excel?" %}
+Buck.ai runs on historical data to optimize your business decisions. Hence, we need at least 3-6 months of job data to run our models running on a FSM software. So, if you're running on Microsoft Excel, we recommend you migrate to a FSM solution first.
 {% /callout %}
 
 ### Optimizing Results
 
 Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
 
-```js
-// cache-advance.config.js
-export default {
-  strategy: 'predictive',
-  engine: {
-    cpus: 12,
-    backups: ['./storage/cache.wtf'],
-  },
-}
-```
-
 Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
-
-{% callout title="You should know!" %}
-This is what a disclaimer message looks like. You might want to include inline `code` in it. Or maybe you’ll want to include a [link](/) in it. I don’t think we should get too carried away with other scenarios like lists or tables — that would be silly.
-{% /callout %}
 
 ---
 
 ## Basic usage
 
-Praesentium laudantium magni. Consequatur reiciendis aliquid nihil iusto ut in et. Quisquam ut et aliquid occaecati. Culpa veniam aut et voluptates amet perspiciatis. Qui exercitationem in qui. Vel qui dignissimos sit quae distinctio.
+After the [onboarding](/docs/onboarding), using Buck.ai is straightforward and simple, without needing any extra setup. Buck.ai has different products for dispatchers and CSRs, however, it is build to enable you accomplist complex tasks with a few simple clicks.
 
 ### First Optimized Dispatch Board
 
-Minima vel non iste debitis. Consequatur repudiandae et quod accusamus sit molestias consequatur aperiam. Et sequi ipsa eum voluptatibus ipsam. Et quisquam ut.
+Creating a dispatch board optimized for revenue and driving distance takes less than 30 seconds in Buck.ai.
 
-Qui quae esse aspernatur fugit possimus. Quam sed molestiae temporibus. Eum perferendis dignissimos provident ea et. Et repudiandae quasi accusamus consequatur dolore nobis. Quia reiciendis necessitatibus a blanditiis iste quia. Ut quis et amet praesentium sapiente.
+From your app selector, select **Dispatch > Boards > + New Board**. Pick the date and the dispatch scenario you want to use. If you don't know which scenario to use in particular, you can move forward with the default scenario. Technicians in the scenario will automatically populate.
 
-Atque eos laudantium. Optio odit aspernatur consequuntur corporis soluta quidem sunt aut doloribus. Laudantium assumenda commodi.
+You may want to pick the jobs that will be included in the board, although it's not mandatory. Click **Create Board** and you're done.
 
 ### First Dispatch-Optimized Call
 
-Vel aut velit sit dolor aut suscipit at veritatis voluptas. Laudantium tempore praesentium. Qui ut voluptatem.
+In the same manner, you can dispatch a customer conversation to the best -and mileage optimized- technician within seconds using Buck.
 
-Ea est autem fugiat velit esse a alias earum. Dolore non amet soluta eos libero est. Consequatur qui aliquam qui odit eligendi ut impedit illo dignissimos.
+For calls, you either need a Buck.ai browser extension for call center, or you have to start the call booking screen manually. From **Omnichannel**, click **Calls > New Call**.
 
-Ut dolore qui aut nam. Natus temporibus nisi voluptatum labore est ex error vel officia. Vero repellendus ut. Suscipit voluptate et placeat. Eius quo corporis ab et consequatur quisquam. Nihil officia facere dolorem occaecati alias deleniti deleniti in.
+In _Step 1_, Fill in _Customer_ name, existing options will appear in the dropdown. You can also search a customer by _Phone or Email_. Pick the _Location_, and click **Next**.
 
-### How does our proprietary AI work?
+In _Step 2_, fill in _Business Unit_, _Job Type_ and _Campaign_. Pick an _Availability Search_, and click **Find Appointment**.
 
-Officia nobis tempora maiores id iusto magni reprehenderit velit. Quae dolores inventore molestiae perspiciatis aut. Quis sequi officia quasi rem officiis officiis. Nesciunt ut cupiditate. Sunt aliquid explicabo enim ipsa eum recusandae. Vitae sunt eligendi et non beatae minima aut.
-
-Harum perferendis aut qui quibusdam tempore laboriosam voluptatum qui sed. Amet error amet totam exercitationem aut corporis accusantium dolorum. Perspiciatis aut animi et. Sed unde error ut aut rerum.
-
-Ut quo libero aperiam mollitia est repudiandae quaerat corrupti explicabo. Voluptas accusantium sed et doloribus voluptatem fugiat a mollitia. Numquam est magnam dolorem asperiores fugiat. Soluta et fuga amet alias temporibus quasi velit. Laudantium voluptatum perspiciatis doloribus quasi facere. Eveniet deleniti veniam et quia veritatis minus veniam perspiciatis.
-
-{% loom-video source="https://www.loom.com/embed/4be49be302344fe193872041d111017e" /%}
+In _Step 3_, Buck.ai brings the most optimal alternatives either for assigning to an actual technician, or assigning to an arrival window depending on the _Availability Search_ you picked in Step 2. Click **Select** next to the option you want to create the job. Alternatively, you can use the **Force Assign** button to create a job manually.
 
 ---
 
 ## Getting help
 
-Consequuntur et aut quisquam et qui consequatur eligendi. Necessitatibus dolorem sit. Excepturi cumque quibusdam soluta ullam rerum voluptatibus. Porro illo sequi consequatur nisi numquam nisi autem. Ut necessitatibus aut. Veniam ipsa voluptatem sed.
-
-### Submit an issue
-
-Inventore et aut minus ut voluptatem nihil commodi doloribus consequatur. Facilis perferendis nihil sit aut aspernatur iure ut dolores et. Aspernatur odit dignissimos. Aut qui est sint sint.
-
-Facere aliquam qui. Dolorem officia ipsam adipisci qui molestiae. Error voluptatem reprehenderit ex.
-
-Consequatur enim quia maiores aperiam et ipsum dicta. Quam ut sit facere sit quae. Eligendi veritatis aut ut veritatis iste ut adipisci illo.
+To get help, we recommend you start out by searching this documentation. If this does not solve your problem, please send an email to [support@buck.ai](mailto:support@buck.ai) to open a ticket. Buck.ai teams will respond and resolve your issue within 48 hours.
