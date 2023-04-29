@@ -9,7 +9,7 @@ You can use the invoices page as a read-only database for your invoice data. The
 
 ## Invoices Overview
 
-You can search the invoices by customer name or ID. Also, you can filter the invoices by revenue or by status.
+You can search the invoices by customer name or ID. Also, you can filter the invoices by business unit, revenue or by status. ![Invoices Overview](invoices_overview.png)
 
 ### Invoice Details
 
