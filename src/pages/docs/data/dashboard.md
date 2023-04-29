@@ -3,39 +3,22 @@ title: Your Data Dashboard
 description: Understanding Key Business Metrics on Buck.ai
 ---
 
-Quasi sapiente voluptates aut minima non doloribus similique quisquam. In quo expedita ipsum nostrum corrupti incidunt. Et aut eligendi ea perferendis.
-
----
-
 ## Dashboard Overview
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
+Your data dashboard provides the basic analytics about your company performance. You can choose to view managed entities (technicians, business units, job types) only, or you can view the entire data set analytics. ![Your Data Dashboard](dashboard_1.png)
 
 ### Revenue per Month
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+Revenue per month analytics shows your company revenue performance for the last two years, comparatively. You can click on the time frames at the bottom of the bar graph to change the timeframe.
 
-```js
-/** @type {import('@tailwindlabs/lorem').ipsum} */
-export default {
-  lorem: 'ipsum',
-  dolor: ['sit', 'amet', 'consectetur'],
-  adipiscing: {
-    elit: true,
-  },
-}
-```
+![Revenue Per Month](dashboard_2.png)
 
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
+### Average Ticket per Job
 
-### Average Revenue per Job
+Average Ticket per Job shows your average revenue per job for the last 2 years, comparatively. Blue line shows your last 12 months, whereas the orange line shows 24~12 months before today.
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
-
-Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia distinctio. Molestiae aperiam qui quis deleniti soluta quia qui. Dolores nostrum blanditiis libero optio id. Mollitia ad et asperiores quas saepe alias.
+![Avereage revenue per Job](dashboard_3.png)
 
 ### Dashboard Widgets
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
-
-Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia distinctio. Molestiae aperiam qui quis deleniti soluta quia qui. Dolores nostrum blanditiis libero optio id. Mollitia ad et asperiores quas saepe alias.
+Buck.ai comes with several widgets as part of your dashboard. They show Top 5 Job Types, Technicians and Business Units by revenue for the last 12 months. ![Dashboard Widgets](dashboard_4.png)

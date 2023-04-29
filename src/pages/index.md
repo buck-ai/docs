@@ -30,17 +30,11 @@ To get started, please email [support@buck.ai](support@buck.ai) so we can provis
 
 ### Integrating Your Legacy Systems
 
-Buck.ai integrates with systems like ServiceTitan. To get started, please check [integrations](/docs/account/integrations). Buck.ai typically needs 24 hours after the first integration to import the data and train relevant models. After that point forward, your data is refreshed in intervals between 4 hours to 24 hours depending on the data type.
+Buck.ai integrates with systems like Service Titan. To get started, please check [integrations](/docs/account/integrations). Buck.ai typically needs 24 hours after the first integration to import the data and train relevant models. After that point forward, your data is refreshed in intervals between 4 hours to 24 hours depending on the data type.
 
 {% callout type="note" title="What if I'm running on Excel?" %}
 Buck.ai runs on historical data to optimize your business decisions. Hence, we need at least 3-6 months of job data to run our models running on a FSM software. So, if you're running on Microsoft Excel, we recommend you migrate to a FSM solution first.
 {% /callout %}
-
-### Optimizing Results
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
-
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
 
 ---
 
