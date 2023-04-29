@@ -25,8 +25,12 @@ Buck imports all the relevant data to job assignment decisions, including but no
   - Technician Shifts
   - Non-job Appointments
 
-## Fetching Your Data manually
+### Fetching Your Data manually
 
 You can fetch your data manually if you need to. Go to Fetch Data tab on your Data App and click "Sync All". ![Fetch All](fetch_all.png)
+
+### Setting Up Revenue Score Calculation Range
+
+By default, Buck.ai uses all job data in your FSM software to calculate the ranking lists for technicians. However, you can tell Buck.ai what's the date range you want your scores to be calculated for. For example, you can opt for using only last 6 months of data for revenue scores. To do this, go to Settings in your Data App and change the range from the Settings tab, and click **Save Changes**. ![Job Score Range](range.png)
 
 
