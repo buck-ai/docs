@@ -1,5 +1,5 @@
 ---
-title: Using Real Time Dispatch View
+title: Using Permanent Dispatch Board
 description: Quidem magni aut exercitationem maxime rerum eos.
 ---
 
