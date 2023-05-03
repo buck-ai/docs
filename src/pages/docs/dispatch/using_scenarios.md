@@ -18,7 +18,7 @@ A scenario is a template of dispatch settings that are saved for later use. For 
 A scenario is a set of options where you can save all those preferences, so that you don't have to set them up again before the next dispatch run.
 
 {% callout type="warning" title="Who Can Edit a Scenario?" %}
-A change in the scenario settings will affect all the dispatch board that will be created using that scenario. Therefore, regular users or admins are not allowed to edit the scenarios. Only a specific user type called __Account Supervisor__ is allowed to edit the scenario. Please consult with the customer support for further guidance.
+A change in the scenario settings will affect all the dispatch board that will be created using that scenario. Therefore, regular users or admins are not allowed to edit the scenarios. Only a specific user type called _Account Supervisor_ is allowed to edit the scenario. Please consult with the customer support for further guidance.
 {% /callout %}
 
 ### Scenario Settings
