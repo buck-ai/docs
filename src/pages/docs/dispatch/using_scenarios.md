@@ -69,36 +69,23 @@ Scenario options is where you override Buck.ai's default behaviour. Please consu
 
 ---
 
-## Quos porro ut molestiae
+## Tips for Success
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
+Your scenario setup matters a lot when it comes to perfecting your dispatch workflow.
 
-### Voluptatem quas possimus
+### Trade Based Scenario Setup
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+You can create a scenario per trade, such as HVAC, Plumbing, etc. Many customers prefer this strategy to have specific setup on a trade basis. This allows you to add your techs and business units on that trade, and set particular cadences for auto-run and auto-publish on a trade basis. For example, you can tell Buck.ai to auto-assign your plumbing jobs every 2 hours in a day, whereas the HVAC calls can be assigned once a day. You know your demand best, and scenarios should serve that purpose.
 
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
+### Location Based Scenario Setup
 
-### Id vitae minima
+If you have multiple locations, you can set a single scenario per location, involving all business units and technicians in that location. That can trigger per-location level dispatch board creation and your dispatcher's workflow may be greatly simplified.
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+### Reshuffles During Day
 
-Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia distinctio. Molestiae aperiam qui quis deleniti soluta quia qui. Dolores nostrum blanditiis libero optio id. Mollitia ad et asperiores quas saepe alias.
+For companies who are assigning many calls in the course of the day, we recommend creating separate scenarios for once-a-day assignments and reshuffles. Reshuffle scenario might avoid reassigning all calls and only assign the unassigned ones, as you might like.
 
----
+### Tips For After Hours and Weekends
 
-## Vitae laborum maiores
+For after hours and weekends, we recommend adjusting technician shifts who will be on-call during those times. Once you do that, only the technicians who are on-call will be assigned and your capacity will be accurately used. 
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
-
-### Corporis exercitationem
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
-
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
-
-### Reprehenderit magni
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
-
-Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia distinctio. Molestiae aperiam qui quis deleniti soluta quia qui. Dolores nostrum blanditiis libero optio id. Mollitia ad et asperiores quas saepe alias.
