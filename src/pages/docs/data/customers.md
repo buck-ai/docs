@@ -13,9 +13,9 @@ You can view all your customers using the link in the Data App. Click on the cus
 
 ### Searching and Filtering
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+You can search for customers using the search box above the table. Just type 4 letters to the search window and results will start to appear.
 
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
+You can filter your customer records on if they're residential or commercial, their revenue or whether they're active on your FSM software.
 
 ---
 
