@@ -37,34 +37,35 @@ Every dispatch board generated in Buck.ai includes key pieces of information you
 
 ### Reassigning Jobs
 
-You can only reassign jobs that are assigned by Buck.ai. You can't reassign jobs that are manually assigned prior to the board creation.
+You can only reassign jobs that are assigned by Buck.ai. You can't reassign jobs that are manually assigned prior to the board creation. To reassign any job, drag and drop the job the preferred technician's line and preferred time.
 
 ### Publishing The Board
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
-
-Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia distinctio. Molestiae aperiam qui quis deleniti soluta quia qui. Dolores nostrum blanditiis libero optio id. Mollitia ad et asperiores quas saepe alias.
+Publishing the board means writing the assignments back to your FSM software. When you publish the board, you'll see a progress on the publish button until you see "No Publishable Assignments". Publishing takes approximately 1 second for each job, under normal API conditions. ![Dispatch Publishing](dispatch_publish.png)
 
 ### Manual Assignments
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
-
-Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia distinctio. Molestiae aperiam qui quis deleniti soluta quia qui. Dolores nostrum blanditiis libero optio id. Mollitia ad et asperiores quas saepe alias.
+For various reasons, Buck.ai's algorithm may choose to leave some jobs unassigned. These reasons are discussed below. If you want to assign any of the unassigned jobs manually, you can drag&drop it to the preferred time and technician, or you can click on the technician icon on the table. ![Dispatch Manual Assign](dispatch_manual_assign.png)
 
 ---
 
 ## Understanding Buck.ai Dispatch
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
+There are multiple reasons as to why Buck.ai assigns a call to a certain technician. Some of these factors are listed as follows:
+  - Technician score on the job types
+  - Scenario settings, such as best tech vs capacity or random tech on the business unit 
+  - Technician's prior location and the distance to the job location 
+  - Rules pertaining to that job, such as time preference, priority or subgroups 
+  - Zones, if applicable, for that job and the technicians who are in that or neighboring zones 
 
 ### Check These Items First
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+Jobs are assigned according to perceived priority first. Perceived priority is determined by the job type, the tags that are used, and predicted revenue of the job. So if you think a job that should be last in the day is assigned as the first thing of the morning, check the rules and job type settings pertaining to priority. 
 
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
+Next, Buck.ai creates a latent serviceable area for each dispatch board. That means the jobs that are too far away from the main cluster of jobs might be left unassigned unless they are too high priority. So the maximum dispatch distance setting matters a lot for these decisions.
 
 ### Troubleshooting
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+When you think something is wrong with the dispatch boards Buck.ai is generating, consult on this docs first. Check the [scenarios](/docs/dispatch/using_scenarios) and the [rules](/docs/dispatch/using_rules), and your [job type rankings](/docs/data/job_types#how-tech-rank-works).
 
-Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia distinctio. Molestiae aperiam qui quis deleniti soluta quia qui. Dolores nostrum blanditiis libero optio id. Mollitia ad et asperiores quas saepe alias.
+If you can't solve the problem, please consult with the support team by opening a ticket. You can email to [support@buck.ai](mailto:support@buck.ai) or visit our support portal [here](https://buckai.zendesk.com).
