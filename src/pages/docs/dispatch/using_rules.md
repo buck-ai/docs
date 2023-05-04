@@ -25,18 +25,24 @@ To create a time preference rule, click on New Rule and selet __Time Preference_
 
 ### Job Type to Subgroup Rules
 
-If you have created your subgroups, it's time to use them! Buck.ai has multiple rule types pertaining to subgroups, and job-type to subgroup rules is one of them. This ensures, if a job is assigned to a certain business unit, the job is assigned only to the subgroup, and no other technician in the business unit. 
+If you have created your subgroups, it's time to use them! Buck.ai has multiple rule types pertaining to subgroups, and job-type to subgroup rules is one of them. 
+
+This rule ensures that if a job is assigned to a certain business unit, the job is assigned only to the subgroup, and no other technician in the business unit. 
 
 To create a rule of this type, click on __New Rule__, select __Job Type to Subgroup__ as the rule type, select the business unit, job type and subgroup. Click __Submit__ when you're done. ![Dispatch Rules Job Type to Subgroup](dispatch_rules_jtsg.png)
 
 ### Tag to Subgroup Rules
 
-This rule type ensures if a job is assigned to a certain business unit, and has a particular tag, it is assigned to a particular subgroup and no one else from the team. To create a rule of this type, click on __New Rule__, select  __Tag to Subgroup__ as the rule type, select business unit, tag and the subgroup. Click __Submit__ when you're done. ![Dispatch Rules Tag to Subgroup](dispatch_rules_ttsg.png)
+This rule type ensures if a job is assigned to a certain business unit, and has a particular tag, it is assigned to a particular subgroup and no one else from the team.
+
+To create a rule of this type, click on __New Rule__, select  __Tag to Subgroup__ as the rule type, select business unit, tag and the subgroup. Click __Submit__ when you're done. ![Dispatch Rules Tag to Subgroup](dispatch_rules_ttsg.png)
 
 
 ### Zone to Subgroup Rules
 
-If you're using zones, chances are you may want only a particular group of technicians in a business unit to be assigned to a zone, and no one else. Zone to Subgroup ensures that. To create a rule of this type, click on __New Rule__, select  __Zone to Subgroup__ as the rule type, select business unit, zone and the subgroup. Click __Submit__ when you're done. ![Dispatch Rules Zone to Subgroup](dispatch_rules_ztsg.png)
+If you're using [zones](/docs/dispatch/using_zones), chances are you may want only a particular group of technicians in a business unit to be assigned to a zone, and no one else. Zone to Subgroup ensures that.
+
+To create a rule of this type, click on __New Rule__, select  __Zone to Subgroup__ as the rule type, select business unit, zone and the subgroup. Click __Submit__ when you're done. ![Dispatch Rules Zone to Subgroup](dispatch_rules_ztsg.png)
 
 ---
 

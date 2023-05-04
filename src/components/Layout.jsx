@@ -55,10 +55,10 @@ const navigation = [
     links: [
       { title: 'Dashboard', href: '/docs/dispatch/dashboard' },
       { title: 'Board Optimization', href: '/docs/dispatch/using_boards' },
-      {
-        title: 'Permanent Board',
-        href: '/docs/dispatch/permanent_board',
-      },
+      // {
+      //   title: 'Permanent Board',
+      //   href: '/docs/dispatch/permanent_board',
+      // },
       { title: 'Using Scenarios', href: '/docs/dispatch/using_scenarios' },
       {
         title: 'Using Rules',
