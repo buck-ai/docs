@@ -3,30 +3,25 @@ title: Managing Your Account Settings
 description: Managing Your Account Settings on Buck.ai
 ---
 
-Quasi sapiente voluptates aut minima non doloribus similique quisquam. In quo expedita ipsum nostrum corrupti incidunt. Et aut eligendi ea perferendis.
+You can view your account settings in Admin Console/Settings. To view and change your account settings, you must have an Admin role on the account.
 
 ---
 
 ## Uploading Your Logo
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
+To upload your logo, click __Upload Your Logo__. Your logo must be smaller than 1000px x 1000px and in square format. 
 
 ---
 
-## Changing Your Account Name
+## Changing Your Account Settings
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+You can update your account settings from the same page as well. Update your account title, main account address and time zone here. Buck.ai also needs to know if you'd be working on US holidays.![Account General Settings](account_general_settings.png)
 
----
+### Why Your Time Zone is Important?
 
-## Updating Your Time Zone
+Buck.ai serves its customers in 7 different time zones. So having an accurate time zone setting is important so we can display the times correctly on your dispatch boards and call booking recommendations. To update your time zone, select the correct time zone from the dropdown and click __Save Changes__.
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+### Working on Holidays
 
-Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia distinctio. Molestiae aperiam qui quis deleniti soluta quia qui. Dolores nostrum blanditiis libero optio id. Mollitia ad et asperiores quas saepe alias.
+By default, Buck.ai rejects to create shifts for technicians on US Holidays. If you'd like to override this setting, select __Allow__ and click __Save Changes__.
 
----
-
-## Changing Your Account Address
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
