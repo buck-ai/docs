@@ -1,57 +1,46 @@
 ---
 title: Onboarding to Buck.ai
-description: Quidem magni aut exercitationem maxime rerum eos.
+description: What to Expect from Onboarding to Buck.ai? 
 ---
 
-Quasi sapiente voluptates aut minima non doloribus similique quisquam. In quo expedita ipsum nostrum corrupti incidunt. Et aut eligendi ea perferendis.
+What you should expect from your onboarding process to Buck.ai? How long does it take to get up and running, and other FAQs. 
 
 ---
 
 ## Getting Ready for Buck.ai
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
+Onboarding to Buck.ai consists four steps:
+  1. Integrating your FSM software to Buck.ai 
+  2. Importing your data and Buck.ai model Training
+  3. Training your team on Buck.ai 
+  4. (Optional) Customizing your setup, rules and scenarios
 
 ### Integrating Your Existing Software
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+Buck.ai needs your historical data to be able to train our models and algorithms. See [integrations](/docs/account/integrations) to learn more and get integrated to Buck.ai.
 
-```js
-/** @type {import('@tailwindlabs/lorem').ipsum} */
-export default {
-  lorem: 'ipsum',
-  dolor: ['sit', 'amet', 'consectetur'],
-  adipiscing: {
-    elit: true,
-  },
-}
-```
+### Importing Your Data
 
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
+Once you integrate your FSM Software, your data is automatically imported to Buck.ai and a default configuration is created so you can get up and running within 24 hours. Once the data is imported, Buck.ai team will reach out if there's any additional information needed. For the training to go smoothly, data processing and all additional information should be provided beforehand.
 
 ### Scheduling Your Training
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+Once your data import and software is ready, Buck.ai support team informs you to schedule your onboarding training. Click here to schedule your [training](https://calendly.com/buck-automate/buck-ai-onboarding) with Buck.ai.
 
-Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia distinctio. Molestiae aperiam qui quis deleniti soluta quia qui. Dolores nostrum blanditiis libero optio id. Mollitia ad et asperiores quas saepe alias.
+### Fine-Tuning Meetings
 
-### Scheduling Fine-Tuning Meetings
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
+Once your training is complete, if you need to, you can schedule customization and fine-tuning meetings with Buck.ai support team, free of charge for up to 4 meetings.
 
 ---
 
 ## What to Expect from Your Onboarding?
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
-
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
+Most customers get up and running within a few weeks of signing up with Buck.ai. The onboarding time can vary due to the complexity of your operation, or number of people/teams who will be using the product. However, Buck.ai support teams are known for their speed, so expect to have a meeting with them every 2-3 days during onboarding period.
 
 ### When to Expect Results?
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
-
-Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia distinctio. Molestiae aperiam qui quis deleniti soluta quia qui. Dolores nostrum blanditiis libero optio id. Mollitia ad et asperiores quas saepe alias.
+You should be able to see the results immediately for call booking. However, we recommend using Buck.ai on a daily basis for dispatch ops, and the first difference in revenue and capacity should be visible within 60 days.
 
 ### Troubleshooting
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
+If you stumble upon a problem and need support, you can email [support@buck.ai](mailto:support@buck.ai) to open a ticket, or reach out to your Customer Success Representative. Either way, Buck.ai commits to resolution of the issues within 72 hours max, as part of our SLA.
