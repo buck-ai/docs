@@ -9,11 +9,11 @@ User management is pretty straigtforward in Buck.ai. You can have users and admi
 
 ## Managing Your Team
 
-You can view your users from Admin Console/Users. To do this, click on __Admin Console__ from the app selector and click on __Users__ in the Admin Console dashboard.
+You can view your users from Admin Console/Users. To do this, click on __Admin Console__ from the app selector and click on __Users__ in the Admin Console dashboard. ![Users Overview](account_users_overview.png)
 
 ### Inviting Team Members
 
-To invite a new team member, click on __Invite a New Member__, and type in Name, Email and pick a role for the User. Once you click __Send Invitation__, an invitation email is sent to user's email with instructions to set their password. Once they accept the invitation and set their password, they can access to your account. 
+To invite a new team member, click on __Invite a New Member__, and type in Name, Email and pick a role for the User. Once you click __Send Invitation__, an invitation email is sent to user's email with instructions to set their password. Once they accept the invitation and set their password, they can access to your account. ![Inviting Users](account_inviting_user.png)
 
 {% callout type="note" title="Adding a User to Multiple Accounts" %}
 A user who's already added to an account on Buck.ai can be added to another account without needing to set a new password. Once the user is added to the new account, the new account will automatically appear on the account selector in the profile menu, so the user can switch accounts if needed to.
@@ -21,7 +21,7 @@ A user who's already added to an account on Buck.ai can be added to another acco
 
 ### Revoking Invites
 
-The invitation must not be accepted for you to be able to revoke an invite. To revoke it, click on the __three-dots__ menu next to the user and click on __Revoke Invitation__.
+The invitation must not be accepted for you to be able to revoke an invite. To revoke it, click on the __three-dots__ menu next to the user and click on __Cancel Invitation__.![Account Cancel Invite](account_users_cancel_invitation.png)
 
 ### Resending Invites
 
@@ -34,6 +34,7 @@ There are two roles in Buck.ai, the __User__ and the __Admin__. Admin has access
 ### Updating Roles of a User
 
 To update the role of a User, click on the __three-dots__ menu and select __Change Role__. Select the new role and click __Submit__.
+![Account Change Role](account_users_changing_role2.png)
 
 ## Removing Users
 
