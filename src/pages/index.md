@@ -10,9 +10,9 @@ Learn how to get Buck.ai up and running for your service business. {% .lead %}
 
 {% quick-link title="Onboarding" icon="installation" href="/docs/onboarding" description="How to onboard to Buck.ai?" /%}
 
-{% quick-link title="Integrations" icon="presets" href="/docs/account/integrations" description="Setting up your integrations." /%}
+{% quick-link title="Integrations" icon="plugins" href="/docs/account/integrations" description="Setting up your integrations." /%}
 
-{% quick-link title="Scenarios" icon="plugins" href="/docs/dispatch/using_scenarios" description="Using scenarios to fine-tune your dispatch ops." /%}
+{% quick-link title="Scenarios" icon="presets" href="/docs/dispatch/using_scenarios" description="Using scenarios to fine-tune your dispatch ops." /%}
 
 {% quick-link title="Job Types" icon="theming" href="/docs/data/job_types" description="Modify your job types to generate the optimum outcome for dispatch." /%}
 
@@ -30,7 +30,7 @@ To get started, please email [support@buck.ai](support@buck.ai) so we can provis
 
 ### Integrating Your Legacy Systems
 
-Buck.ai integrates with systems like Service Titan. To get started, please check [integrations](/docs/account/integrations). Buck.ai typically needs 24 hours after the first integration to import the data and train relevant models. After that point forward, your data is refreshed in intervals between 4 hours to 24 hours depending on the data type.
+Buck.ai integrates with systems like ServiceTitan. To get started, please check [integrations](/docs/account/integrations). Buck.ai typically needs 24 hours after the first integration to import the data and train relevant models. After that point forward, your data is refreshed in intervals between 4 hours to 24 hours depending on the data type.
 
 {% callout type="note" title="What if I'm running on Excel?" %}
 Buck.ai runs on historical data to optimize your business decisions. Hence, we need at least 3-6 months of job data to run our models running on a FSM software. So, if you're running on Microsoft Excel, we recommend you migrate to a FSM solution first.
