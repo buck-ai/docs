@@ -73,6 +73,7 @@ const navigation = [
   {
     title: 'Managing Customer Conversations',
     links: [
+      { title: 'Capacity Focused Booking', href: '/docs/omnichannel/approach' },
       { title: 'Channel Setup', href: '/docs/omnichannel/setup' },
       { title: 'Managing Voice Calls', href: '/docs/omnichannel/voice' },
       { title: 'Managing Text Conversations', href: '/docs/omnichannel/text' },

@@ -1,9 +1,9 @@
 ---
-title: Setting Up Your Channels
-description: How to Setup Your Channels for Smarter Call-Booking?
+title: Our Different Approach
+description: How different is Buck.ai and why it matters
 ---
 
-Quasi sapiente voluptates aut minima non doloribus similique quisquam. In quo expedita ipsum nostrum corrupti incidunt. Et aut eligendi ea perferendis.
+
 
 ---
 
